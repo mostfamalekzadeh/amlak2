@@ -1,0 +1,62 @@
+
+@font-face {
+    font-family: ekan;
+    src: url(/font/Yekan.ttf);
+}
+
+
+
+body{
+    background-color: azure;
+}
+h1{
+    color: rgb(90, 21, 155);
+   
+}
+h2{
+  color: rgb(229, 32, 32);
+}
+#artin{
+    height: 20px;
+    width: 1500px;
+    background-color: brown;
+}
+.btn{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(38, 174, 178);
+    font-family: ekan;
+    border: none;
+    border-radius: 30px;
+    font-weight: 900;
+    cursor: pointer;
+
+}
+.h{
+    font-family: ekan;
+}
+.btn:hover{
+    background-color: blueviolet;
+}
+b{
+    color: blue;
+}
+#link{
+    height: 20px;
+    width: 120px;
+    border: none;
+    background-color: aqua;
+    border-radius: 20px;
+    cursor: pointer;
+}
+#link:hover{
+    background-color: rgb(139, 249, 137);
+}
+#img{
+    border-radius: 20px;
+}
+.aks{
+    border-radius:30px ;
+}
+
+
